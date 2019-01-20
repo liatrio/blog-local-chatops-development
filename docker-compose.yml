@@ -1,0 +1,7 @@
+version: '3'
+services:
+  bot:
+    build: .
+    image: sam_bot
+    ports:
+      - "3000:3000"
