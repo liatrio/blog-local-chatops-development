@@ -1,3 +1,8 @@
+# Sam from ChatOps Local Development Blog 
+
+This was generated using Botkit's framework. We appreciate HowdyAI's investment in the community and for allowing us to
+extend on this framework. 
+
 # Botkit Anywhere
 
 Embed a bot in any web page or app with Botkit for the Web.
