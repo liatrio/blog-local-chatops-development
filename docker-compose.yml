@@ -1,7 +1,9 @@
-version: '3'
+version: '2'
 services:
   bot:
     build: .
+    volumes:
+      - .:/code
     image: sam_bot
     ports:
       - "3000:3000"
